@@ -1,3 +1,2 @@
 # GitHubMiniLesson
-hiii emme
-hi grant
+We are experimenting with GitHub
